@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=532aa3&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=532aa3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+de+C+Freitas;I'm+22+years+old;I+am+from+Cachoeira+Paulista,+SP;I'm+learning+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=532aa3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+de+C+Freitas;I'm+23+years+old;I'm+from+Cachoeira+Paulista,+SP;I'm+learning+Web+development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AnbuLuke&show_icons=true&count_private=true&hide_border=true&title_color=532aa3&icon_color=532aa3&text_color=532aa3&bg_color=0d1117" alt="Lucas de C Freitas github stats" /> 
